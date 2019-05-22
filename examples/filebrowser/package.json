@@ -13,7 +13,7 @@
     "@jupyterlab/docmanager": "^0.16.2",
     "@jupyterlab/docregistry": "^0.16.2",
     "@jupyterlab/filebrowser": "^0.16.2",
-    "@jupyterlab/fileeditor": "^0.16.2",
+    "@jupyterlab/fileeditor": "^0.17.1",
     "@jupyterlab/services": "^2.0.2",
     "@jupyterlab/theme-light-extension": "^0.16.2",
     "@phosphor/algorithm": "^1.1.2",
