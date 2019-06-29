@@ -8,7 +8,7 @@
     "prepublishOnly": "npm run build"
   },
   "dependencies": {
-    "@jupyterlab/application": "^0.16.2",
+    "@jupyterlab/application": "^1.0.0",
     "@jupyterlab/application-extension": "^0.16.2",
     "@jupyterlab/apputils-extension": "^0.16.2",
     "@jupyterlab/buildutils": "^0.7.2",
@@ -22,12 +22,12 @@
     "@jupyterlab/fileeditor-extension": "^0.16.2",
     "@jupyterlab/help-extension": "^0.16.2",
     "@jupyterlab/imageviewer-extension": "^0.16.2",
-    "@jupyterlab/inspector-extension": "^0.16.2",
+    "@jupyterlab/inspector-extension": "^1.0.0",
     "@jupyterlab/launcher-extension": "^0.16.2",
     "@jupyterlab/mainmenu-extension": "^0.5.2",
     "@jupyterlab/markdownviewer-extension": "^0.16.2",
     "@jupyterlab/mathjax2-extension": "^0.4.2",
-    "@jupyterlab/notebook-extension": "^0.16.2",
+    "@jupyterlab/notebook-extension": "^1.0.0",
     "@jupyterlab/rendermime-extension": "^0.10.2",
     "@jupyterlab/running-extension": "^0.16.2",
     "@jupyterlab/settingeditor-extension": "^0.11.2",
@@ -36,7 +36,7 @@
     "@jupyterlab/terminal-extension": "^0.16.2",
     "@jupyterlab/theme-dark-extension": "^0.16.2",
     "@jupyterlab/theme-light-extension": "^0.16.2",
-    "@jupyterlab/tooltip-extension": "^0.16.2",
+    "@jupyterlab/tooltip-extension": "^1.0.0",
     "es6-promise": "~4.1.1"
   },
   "devDependencies": {
