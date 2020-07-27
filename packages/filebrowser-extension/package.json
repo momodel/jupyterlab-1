@@ -32,7 +32,7 @@
     "@jupyterlab/application": "^0.16.2",
     "@jupyterlab/apputils": "^0.16.3",
     "@jupyterlab/coreutils": "^1.1.2",
-    "@jupyterlab/docmanager": "^0.16.2",
+    "@jupyterlab/docmanager": "^1.0.0",
     "@jupyterlab/docregistry": "^0.16.2",
     "@jupyterlab/filebrowser": "^0.16.2",
     "@jupyterlab/launcher": "^0.16.2",
