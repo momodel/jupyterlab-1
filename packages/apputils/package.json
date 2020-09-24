@@ -43,9 +43,9 @@
     "@phosphor/virtualdom": "^1.1.2",
     "@phosphor/widgets": "^1.6.0",
     "@types/react": "~16.0.19",
-    "react": "~16.4.0",
-    "react-dom": "~16.4.0",
-    "sanitize-html": "~1.14.3"
+    "react": "~16.5.0",
+    "react-dom": "~16.5.0",
+    "sanitize-html": "~2.0.0"
   },
   "devDependencies": {
     "@types/react-dom": "~16.0.2",
