@@ -6,7 +6,7 @@
   "dependencies": {
     "@jupyterlab/apputils": "^0.16.3",
     "@jupyterlab/cells": "^0.16.2",
-    "@jupyterlab/codeeditor": "^0.16.1",
+    "@jupyterlab/codeeditor": "^1.0.0",
     "@jupyterlab/codemirror": "^0.16.2",
     "@jupyterlab/completer": "^0.16.2",
     "@jupyterlab/console": "^0.16.2",
@@ -19,8 +19,8 @@
     "@jupyterlab/imageviewer": "^0.16.2",
     "@jupyterlab/inspector": "^0.16.2",
     "@jupyterlab/mainmenu": "^0.5.2",
-    "@jupyterlab/mathjax2-extension": "^0.4.2",
-    "@jupyterlab/notebook": "^0.16.2",
+    "@jupyterlab/mathjax2-extension": "^1.0.0",
+    "@jupyterlab/notebook": "^1.0.0",
     "@jupyterlab/observables": "^1.0.9",
     "@jupyterlab/outputarea": "^0.16.2",
     "@jupyterlab/rendermime": "^0.16.2",
@@ -38,7 +38,7 @@
     "chai": "~4.1.2",
     "expect.js": "~0.3.1",
     "json-to-html": "~0.1.2",
-    "react": "~16.4.0",
+    "react": "~16.5.0",
     "simulate-event": "~1.4.0"
   },
   "devDependencies": {
